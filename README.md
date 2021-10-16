@@ -20,7 +20,6 @@
    ##
   
    <a href="https://www.linkedin.com/in/gustavo-a-238940159/" target="__blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a> 
-   <a href = "mailto:gustavoaparecido2204@gmail.com" target="__blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="__blank"></a>
-
+   
  ![Snake animation](https://github.com/oGustavo01/oGustavo01/blob/output/github-contribution-grid-snake.svg) 
 </div>
